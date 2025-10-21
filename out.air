@@ -1,0 +1,4 @@
+define public function @main(none): i32 {
+	push const i32: 0
+	ret
+}
